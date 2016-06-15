@@ -31,3 +31,31 @@
 # Project build files
 *build*
 *pbx*
+
+# Binaries
+begins/begin
+begins/bitmaps/build/bitmaps
+calc/calc
+celcius2Farenheit/celcius2Farenheit
+counts/counts
+grades/grades
+grid/grid
+Hello
+World/build/Hello
+World
+io/build/copy
+io/build/io
+leapyear/leapyear
+len/len
+pbtest/pbtest/build/pbtest
+pointers/argtest
+pointers/findBlank
+pointers/set2zero
+pointers/zerocounter
+read/build/read
+resistance/resistance
+Sample/build/Sample
+sphere/volume
+triangle/triangle
+two2/two2
+vowels/build/vowels
