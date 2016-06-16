@@ -28,6 +28,9 @@
 *.out
 *.app
 
+# Groff documentation files
+*.1
+
 # Project build files
 *build*
 *pbx*
